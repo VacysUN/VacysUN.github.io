@@ -10,3 +10,4 @@ end
 gem 'logger'
 gem 'csv'
 gem 'base64'
+gem 'sass-embedded', '< 1.83.0'
