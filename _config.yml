@@ -9,38 +9,23 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Vismantas Dilys
   pic: 1
-  position: Lead Designer
+  position: Machine learning
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/vismantas/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Elt%2F&originalSubdomain=lt
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+
+- name: Vytautas Šeibutas
+  pic: 2
+  position: ERP Technology Architect
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/vytautas-seibutas-6a56b1124/
+
+
+
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
