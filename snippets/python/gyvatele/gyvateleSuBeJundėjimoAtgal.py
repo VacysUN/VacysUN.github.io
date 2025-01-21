@@ -19,16 +19,16 @@ def draw():
     global x,y,stulpelių_kryptis,eilučių_kryptis
     # BEGIN_RODYTI
     nupiešti_narelį(x,y)
-    if klavišas == "a" and stulpelių_kryptis !=1:
+    if klavišas == 'a' and stulpelių_kryptis !=1:
       stulpelių_kryptis = -1
       eilučių_kryptis = 0
-    elif klavišas == "d":
+    elif klavišas == 'd' and stulpelių_kryptis !=-1:
       stulpelių_kryptis = 1
       eilučių_kryptis = 0
-    elif klavišas == "w":
+    elif klavišas == 'w'and eilučių_kryptis !=1 :
       stulpelių_kryptis = 0
       eilučių_kryptis = -1
-    elif klavišas == "s" and eilučių_kryptis !=-1:
+    elif klavišas == 's' and eilučių_kryptis !=-1:
       stulpelių_kryptis = 0
       eilučių_kryptis = 1
     x=x+stulpelių_kryptis

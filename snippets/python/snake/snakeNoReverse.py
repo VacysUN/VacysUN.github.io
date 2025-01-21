@@ -18,16 +18,16 @@ def draw():
     global x, y, column_direction, row_direction
     # BEGIN_RODYTI
     draw_cell(x, y)
-    if key == "a" and column_direction != 1:
+    if key == 'a' and column_direction != 1:
       column_direction = -1
       row_direction = 0
-    elif key == "d":
+    elif key == 'd' and column_direction != -1:
       column_direction = 1
       row_direction = 0
-    elif key == "w":
+    elif key == 'w' and row_direction != 1:
       column_direction = 0
       row_direction = -1
-    elif key == "s" and row_direction != -1:
+    elif key == 's' and row_direction != -1:
       column_direction = 0
       row_direction = 1
     x = x + column_direction
