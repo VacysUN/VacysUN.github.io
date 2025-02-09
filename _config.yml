@@ -20,6 +20,12 @@ people:
     social:
       - title: linkedin
         url: https://www.linkedin.com/in/vytautas-seibutas-6a56b1124/
+  - name: Marija Šeibutienė
+    pic: 4 
+    position: Graduate in econometrics, with experience in market research. Mathematics tutor and mathematics instructional designer.
+    social:
+      - title: linkedin
+        url: https://www.linkedin.com/in/marijaseibutiene/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
